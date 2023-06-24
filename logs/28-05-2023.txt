@@ -1,0 +1,1 @@
+49.213.78.6()--query--tables(delete from table_user_online where time < 1685246060) (11:04:20 28/05/2023)
